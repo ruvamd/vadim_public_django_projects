@@ -1,0 +1,1 @@
+# vadim_public_django_projects
