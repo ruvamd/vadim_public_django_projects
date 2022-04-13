@@ -3,6 +3,7 @@ mysite/include/
 mysite/lib/
 pyvenv.cfg
 admin.py
+settings.py
 
 *.log
 *.pot
