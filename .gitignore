@@ -78,3 +78,7 @@ sftp-config.json
 !.vscode/launch.json 
 !.vscode/extensions.json 
 .history
+
+bin
+include
+lib
